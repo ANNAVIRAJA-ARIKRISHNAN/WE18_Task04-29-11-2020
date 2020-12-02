@@ -50,7 +50,7 @@ h1 {
 }
 .container {
   display: flex;
-  /*margin-top: 10px;*/
+  margin-top: 15px;
 }
 .left,
 .right {
